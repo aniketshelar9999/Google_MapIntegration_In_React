@@ -82,7 +82,7 @@ class MapContainer extends Component {
         const { locations, selected } = this.state;
         return (
             <LoadScript
-                googleMapsApiKey='Your_Api_Key'>
+                googleMapsApiKey='Your_A_Keypi'>
                 <GoogleMap
                     mapContainerStyle={mapStyles}
                     zoom={13}
